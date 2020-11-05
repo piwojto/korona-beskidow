@@ -1,0 +1,11 @@
+{
+  "name": "Gatsby Website",
+  "description": "Simple website built with Gatsby.js and DatoCMS",
+  "previewImage": "https://https://korona-beskidow.netlify.app/",
+  "datocmsProjectId": "604",
+  "deploymentType": "static",
+  "buildCommand": "yarn build",
+  "datocmsApiTokenEnvName": "4898eb47d849313c125646434ea561",
+  "buildDirectory": "public",
+  "livePreviewUrl": "https://https://korona-beskidow.netlify.app/"
+}
